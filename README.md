@@ -1,11 +1,8 @@
-# Clever Programmer 안미남
+# Clever Programmer Anminam
 
-## 👇 WATCH THIS FIRST 👇
-## https://tinyurl.com/customizeReactPortfolio
+## 👇 Anminam's 👇
+## https://anminam.netlify.app
 
-![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
-
-## <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
 
 ## 이 프로젝트는?
  - React CRA
@@ -14,11 +11,12 @@
 ## 사이트 등록
 - Netlify <a href='https://www.netlify.com'>HERE</a>
 
-#### PROCEDURE:
+## Credits - 크레딧
+
+### PROCEDURE:
 - https://compassionate-leakey-e9b16b.netlify.app/
 - https://tinyurl.com/customizeReactPortfolio
 
-## Credits - 크레딧
 
 #### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
 
