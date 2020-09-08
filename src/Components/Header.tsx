@@ -10,6 +10,7 @@ const Header = ({ data }: IProps) => {
   const [occupation] = useState(data?.occupation);
   const [description] = useState(data?.description);
   const [city] = useState(data?.address.city);
+  const [cityState] = useState(data?.address.state);
   const [social] = useState(data?.social);
 
   return (
@@ -60,7 +61,8 @@ const Header = ({ data }: IProps) => {
         <div className="banner-text">
           <h1 className="responsive-headline">I'm {name}.</h1>
           <h3>
-            I'm a {city} based <span>{occupation}</span>. {description}.
+            I'm a {city}, {cityState} based <span>{occupation}</span>.{" "}
+            {description}.
           </h3>
           <hr />
           <ul className="social">
